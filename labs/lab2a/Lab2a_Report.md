@@ -2,6 +2,7 @@
 
 **Date:** November 8, 2026  
 **Lab:** Morpheus Lite Agentic SOC  
+**Group Members:** Roy Tevel - רואי טבל | Lior Levin - ליאור לווין  
 
 ---
 
